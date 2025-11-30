@@ -1,0 +1,14 @@
+{
+  "welcome_email": {
+    "subject": "Welcome to Our Hospital Portal",
+    "body": "Hello {{ name }},\n\nYour account has been successfully created.\n\nThank you for joining us!"
+  },
+  "approval_email": {
+    "subject": "Account Approved",
+    "body": "Dear {{ name }},\n\nYour account has been approved by the admin. You can now log in using your credentials."
+  },
+  "invoice_ready": {
+    "subject": "Your Invoice is Ready",
+    "body": "Hello {{ name }},\n\nYour treatment invoice is ready for download. Visit your dashboard to view or download it."
+  }
+}
